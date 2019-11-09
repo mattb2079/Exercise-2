@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+    text-align: center;
+    text-decoration: underline;
+    font: Arial;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: slategray;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+    width: 50%;
+    margin: auto;
+    transform: scale(.5, 1);
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    text-indent: 5%;
+    direction: initial;
+    transform: skewX(10deg);
+    text-align: justify;
+}
+
+/*Utilize the following concepts:
+
+• CSS
+• Text color
+• Background colors
+• Put the CSS in a separated file
+• Text alignment, transformation, indentation and direction
+• Typeface type, size and scale*/
